@@ -17,7 +17,7 @@ toc_icon: "bookmark"
 원격 파일의 존재여부만 간단하게 확인할 수 있는 방법으로 단순하게 사용되는 일반적인 방식이다.
 
 > JDK : 11<br>
-> 개발툴 : JetBrains Ultimate<br>
+> 개발툴 : JetBrains IntelliJ Ultimate<br>
 > Spring Boot : 2.5.2
 
 ```java

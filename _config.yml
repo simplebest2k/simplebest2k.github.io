@@ -105,10 +105,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "언제나 현역"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "판교에 근무중인 **개발자** 입니다."
+  location         : "경기도민"
   email            : "suekhan@naver.com"
   links:
     - label: "Email"

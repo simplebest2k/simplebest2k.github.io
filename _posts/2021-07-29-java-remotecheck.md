@@ -15,7 +15,7 @@ toc_label: "목차"
 toc_icon: "bookmark"
 author_profile: true
 sidebar:
-  nae: "main"
+  nav: "main"
 ---
 원격 파일의 존재여부만 간단하게 확인할 수 있는 방법으로 단순하게 사용되는 일반적인 방식이다.
 

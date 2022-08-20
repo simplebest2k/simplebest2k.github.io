@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark"
 locale                   : "ko-KR"
 title                    : "Simple is The Best"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "단순하게 설명할 수 없다면, 충분하게 이해하지 못한 것이다" # site tagline that appears below site title in masthead
 name                     : "단순미학"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

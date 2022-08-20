@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
+  - title: "목록"
     url: /posts/
   # - title: "Sample Collections"
   #   url: /collection-archive/
